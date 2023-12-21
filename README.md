@@ -24,7 +24,7 @@ The Project 'Amigo' initially kicked off as an attempt to replicate what virtual
 
 #UPDATES & BUG FIXES:
 
-1. Update #1 [UPDATE TIME: 21-12-2023 14:08 IST]:	
+1. Update #1 [UPDATE TIME: 21-12-2023 14:08 IST Line Count: 321]:	
 	i) External Python Libraries Used (make sure that you installed the below libraries):
 
 		- pyttsx3 
