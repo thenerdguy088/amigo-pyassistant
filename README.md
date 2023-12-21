@@ -25,13 +25,14 @@ The Project 'Amigo' initially kicked off as an attempt to replicate what virtual
 #UPDATES & BUG FIXES:
 
 1. Update #1 [UPDATE TIME: 21-12-2023 14:08 IST Line Count: 321]:	
-	i) External Python Libraries Used (make sure that you installed the below libraries):
+	
+ i) External Python Libraries Used (make sure that you installed the below libraries):
 
 		- pyttsx3 
 		- googlesearch
 		- wikipedia
 
-	ii) Standard Python Libraries Used:
+ii) Standard Python Libraries Used:
 
 		- socket
 		- requests
@@ -41,7 +42,7 @@ The Project 'Amigo' initially kicked off as an attempt to replicate what virtual
 		- sys
 		- webbrowser
 
-	iii) Keywords / Features:
+iii) Keywords / Features:
 
 		- add numbers
 		- subract numbers
@@ -60,7 +61,7 @@ The Project 'Amigo' initially kicked off as an attempt to replicate what virtual
 		- set timer
 		- get ip address
 
-	iv) User - Defined Functions:
+iv) User - Defined Functions:
 
 		- speak(str1) & speak_fast(str1) #using pyttsx3
 		- trigger_notification(title1,message1) #using plyer 
